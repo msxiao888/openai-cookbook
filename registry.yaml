@@ -1805,3 +1805,13 @@
     - msingh-openai
   tags:
     - completions
+
+- title: Choosing a reasoning effort for accuracy, latency, and cost
+  path: examples/Reasoning_effort_tradeoffs.ipynb
+  date: 2025-02-05
+  authors:
+    - msxiao888
+  tags:
+    - completions
+    - reasoning
+    - cost
